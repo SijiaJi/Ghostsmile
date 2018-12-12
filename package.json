@@ -1,0 +1,22 @@
+{
+  "name": "ghostsmile",
+  "version": "1.0.0",
+  "description": "Initial Sever Setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SijiaJi/Ghostsmile.git"
+  },
+  "author": "Sijia Ji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SijiaJi/Ghostsmile/issues"
+  },
+  "homepage": "https://github.com/SijiaJi/Ghostsmile#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
